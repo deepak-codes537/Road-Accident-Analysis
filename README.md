@@ -41,4 +41,5 @@ Clients want to create a **Road Accident Dashboard** for the years 2021 and 2022
 -Dashboard Interaction <a href="https://github.com/deepak-codes537/Road-Accident-Analysis/blob/main/Road%20Accident%20image.png"> View Dashboard </a>
 
 ## Dahboard
-<img width="1290" height="708" alt="Road Accident image" src="https://github.com/user-attachments/assets/de166619-8acf-4ec9-b448-9e9ff6eeffe2" />
+<img width="1318" height="732" alt="Road Accident Analysis Image" src="https://github.com/user-attachments/assets/fb969896-e7a6-4489-a9f5-320014115d1e" />
+
