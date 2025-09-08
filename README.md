@@ -1,4 +1,4 @@
-# Road Accident Dashboard 🚦  
+# Road-Accident-Analysis Dashboard 🚦  
 
 ## 📌 Project Objective  
 The objective of this project is to analyze road accident data and create an interactive Power BI dashboard that helps in identifying accident trends, causes, and patterns.  
