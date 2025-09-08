@@ -38,11 +38,7 @@ Clients want to create a **Road Accident Dashboard** for the years 2021 and 2022
 - Trend analysis across months and years  
 - Easy-to-use filters for deeper insights  
 
--Dashboard Interaction <a href="https://github.com/deepak-codes537/Road-Accident-Analysis/blob/main/Road%20Accident%20image.png"> data</a>
+-Dashboard Interaction <a href="https://github.com/deepak-codes537/Road-Accident-Analysis/blob/main/Road%20Accident%20image.png"> View Dashboard </a>
 
-## 🖼️ Screenshot  
-(Add screenshot of your dashboard here)  
-
-```markdown
-![Road Accident Dashboard](screenshot.png)
-
+## Dahboard
+<img width="1290" height="708" alt="Road Accident image" src="https://github.com/user-attachments/assets/de166619-8acf-4ec9-b448-9e9ff6eeffe2" />
